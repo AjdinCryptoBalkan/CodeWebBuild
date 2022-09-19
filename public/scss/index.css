@@ -389,4 +389,9 @@ background-color: transparent;
   opacity: 1;
 
 }
+@media (max-width:900px) {
+  .lodding{
+    display: none;
+  }
+}
 /*# sourceMappingURL=index.css.map */
